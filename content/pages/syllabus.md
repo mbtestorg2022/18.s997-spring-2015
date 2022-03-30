@@ -12,9 +12,9 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-*   [_18.100C Real Analysis_](/courses/18-100c-real-analysis-fall-2012/pages/index.htm)
-*   [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013/pages/index.htm)
-*   [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014/pages/index.htm) _(Conditional Expectations, Random Vectors)_
+*   [_18.100C Real Analysis_](/courses/18-100c-real-analysis-fall-2012)
+*   [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013)
+*   [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014) _(Conditional Expectations, Random Vectors)_
 *   _18.466 Mathematical Statistics_ _(Statistical Model, Exponential Families, Estimation, Confidence Intervals)_
 
 Course Description
